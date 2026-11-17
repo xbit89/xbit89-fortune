@@ -1,0 +1,6 @@
+{
+  "name": "xbit89-vapi-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "xbit89-fortune: a minimal x402 paid API for listing on vAPI Call."
+}
